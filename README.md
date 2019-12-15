@@ -12,5 +12,8 @@ Breast Cancer (BC) is a common cancer for women around the world, and early dete
 ## How it works:
 1. The program will run on google colab , so google.colab library must be imported and the data should be loaded to it from the .csv file.
 1. Get a count of the number of patients with Malignant (M) cancerous and Benign (B) non-cancerous cells , this can b taken from the 'diagnosis' column. 
+1. Using sklearn -> labelencoder , the values in the column can be changed from 0 to 1.
 
-## Graphs :can be taken fro
+
+## Graphs :
+
